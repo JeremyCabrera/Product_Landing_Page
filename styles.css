@@ -23,6 +23,8 @@
     color: #000;
     text-decoration: none;
   }
+
+ 
   
   /** Container Button **/
   
@@ -52,7 +54,7 @@
   header {
     position: fixed;
     top: 0;
-    min-height: 75px;
+    min-height: 45px;
     padding: 0px 20px;
     display: flex;
     justify-content: space-around;
